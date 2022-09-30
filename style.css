@@ -1,0 +1,31 @@
+html {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    cursor: default;
+}
+
+h1 {
+    text-shadow: 0px 0px 0px black;
+}
+
+#roupas {
+    display: inline-flex;
+}
+
+.coluna {
+    width: 33%;
+}
+
+p {
+    margin: 50px
+}
+
+.img {
+    transition: 0.5s;
+}
+
+.img:hover {
+    box-shadow: -10px 10px 10px;
+    transform: translate(10px -10px);
+}
