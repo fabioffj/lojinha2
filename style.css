@@ -34,3 +34,7 @@ img:hover {
     box-shadow: -10px 10px 10px;
     transform: translate(10px -10px);
 }
+
+.imgs {
+    font-size: medium;
+}
